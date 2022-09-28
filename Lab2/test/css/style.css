@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-.navi  a{
+.navigation  a{
     z-index: 2;
     position: fixed;
     top: 0;
