@@ -3,9 +3,7 @@ var swiper = new Swiper(".slide-content", {
   spaceBetween: 25,
   loop: true,
   fade: true,
-  //loopFillGroupWithBlank: true,
   centeredSlides: false,
-  //slidesPerGroupSkip: 1,
   grabCursor: true,
   keyboard: {
     enabled: true,
