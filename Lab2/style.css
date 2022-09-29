@@ -39,11 +39,11 @@ header .logo {
 }
 
 header .navigation a {
-    color: rgb(240, 180, 180);
+    color: rgb(163, 50, 50);
     text-decoration: none;
     font-weight: 500;
-    letter-spacing: 1px;
-    padding: 2px 15px 10 15px;
+    letter-spacing: 2px;
+    padding: 5px 20px 15 20px;
     border-radius: 20px;
     transition: 0.3s;
     transition-property: background;
@@ -54,7 +54,7 @@ header .navigation a:not(:last-child) {
 }
 
 header .navigation a:hover {
-    background: #fff;
+    background: rgb(246, 246, 247);
 }
 
 .content {
