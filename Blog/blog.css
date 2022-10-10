@@ -1,0 +1,52 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+
+.blog{
+    text-align: center;
+    justify-content: center;
+    margin: 18vh 0 0;
+}
+.image{
+    text-align: center;
+    justify-content: center;    width: 230px;
+    height: 250px;
+    margin: 10px 15px 15px 15px;
+    outline: none;
+    overflow: hidden;
+
+}
+
+.content {
+    outline: none;
+
+    display: flex;
+    margin: 20vh 15 15;
+}
+
+.container-text {
+padding: 10px 15px 15px 15px;
+}
+
+.container{
+    border:none;
+    border: 1px solid rgb(185, 181, 181);
+    border-radius: 15px;
+}
+
+.button{
+    cursor: pointer;
+    color:rgb(13, 121, 245);
+}
+
+.button:hover{
+text-decoration: underline;}
+
+    
+@media screen and (max-width: 760px) {
+    .content {
+    display: block;
+    }
+
+}
