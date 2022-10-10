@@ -25,6 +25,9 @@
     margin: 20vh 15 15;
 }
 
+.h6{
+    color: rgb(238, 176, 176);
+}
 .container-text {
 padding: 10px 15px 15px 15px;
 }
@@ -50,3 +53,13 @@ text-decoration: underline;}
     }
 
 }
+
+.name, .blog-name, .title{
+cursor: pointer;
+}
+
+
+.blog-name:hover{
+color:aliceblue;
+transition: 0.3s;
+    }
