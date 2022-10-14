@@ -1,0 +1,98 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(248, 244, 239);
+    
+}
+
+.logo{
+    padding-right: 250px;
+    color: rgb(184, 100, 100);
+
+}
+.nav{
+    font-family: Magneto;
+    display: flex;
+    padding: 20px;
+    margin:  5px;
+    justify-content: space;
+    color: rgb(104, 40, 40);
+}
+
+.navi{
+    margin-right:  55px;
+
+}
+
+.na{
+    display: flex;
+    border: 40px;
+}
+
+.nav .logo{
+ font-size:30px;
+}
+
+.nav .navi{
+    font-size:20px;
+   }
+
+.container{
+    display: flex;
+    padding: 50px;
+
+}
+
+.head{
+    margin: 5px;
+    padding: 5px;
+    padding-right: 80px;
+    padding-bottom: 20px;
+
+}
+
+.head .name{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    color: rgb(104, 40, 40);
+
+
+}
+
+.head .nameBlog{
+    font-weight: bold;
+    padding-bottom: 20px;
+
+}
+
+.head .media-icons{
+    display: block;
+}
+
+.logo:hover{
+    color: rgb(243, 220, 220);
+    transition:0.3s;
+}
+
+.navi:hover{
+    color: rgb(221, 171, 171);
+    transition:0.3s;
+}
+
+.footer{
+    background-color: #742428
+}
+
+.des{
+    color: rgb(80, 77, 77)
+}
+
+.name .fab fa-instagram{
+    padding-right: 40px;
+
+}
+
+.list {
+    list-style: none;
+  }
